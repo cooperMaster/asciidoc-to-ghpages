@@ -1,0 +1,13 @@
+ASCIIDOC CONVERT HTML/PDF 
+
+:imagesdir: images
+
+* .travis.yml配置
+
+image::travis.yml.png[]
+* travis env配置
+
+image::travis_env.png[]
+* github tocke配置
+
+image::github_token.png[]

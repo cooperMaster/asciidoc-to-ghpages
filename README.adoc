@@ -1,8 +1,13 @@
 = AsciiDoc converted to HTML/PDF files and published on gh-pages with Asciidoctor Docker from Travis CI
-
+:imagesdir: images
 :link-github-project-ghpages: https://cooperMaster.github.io/asciidoc-to-ghpages
 :link-demo-html: {link-github-project-ghpages}/demo.html
 :link-demo-pdf: {link-github-project-ghpages}/demo.pdf
+:link-notes-html:
+{link-github-project-ghpages}/notes.html
+:link-notes-pdf:
+{link-github-project-ghpages}/notes.pdf
+
 :link-demo-adoc: https://raw.githubusercontent.com/cooperMaster/asciidoc-to-ghpages/master/demo.adoc
 
 
@@ -20,3 +25,8 @@ This blog post describes the workflow used to do it:
 [[asciidoc_ghpages_travis_docker]]
 .Convert your AsciiDoc files and Publish the HTML/PDF output to GH Pages thanks to Travis and Asciidoctor with Docker
 image::cover-asciidoc-ghpages.svg[AsciiDoc to Github Pages with Travis and Docker Asciidoctor,950]
+
+
+* NOTES:
+** {link-notes-html}[NOTES HTML FILE]
+** {link-notes-pdf}[NOTES PDF FILE]

@@ -28,5 +28,5 @@ image::cover-asciidoc-ghpages.svg[AsciiDoc to Github Pages with Travis and Docke
 
 
 * NOTES:
-** {link-notes-html}[Notes html file]
-** {link-notes-pdf}[Notes pdf file]
+** link:{link-github-project-ghpages}/notes.html[Notes html file]
+** link:{link-github-project-ghpages}/notes.pdf[Notes pdf file]
